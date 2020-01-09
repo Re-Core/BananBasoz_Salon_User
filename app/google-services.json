@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "130518961999",
+    "firebase_url": "https://bananbasoz-salon.firebaseio.com",
+    "project_id": "bananbasoz-salon",
+    "storage_bucket": "bananbasoz-salon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130518961999:android:a5a8e1ac82128ea9bf3f3a",
+        "android_client_info": {
+          "package_name": "com.recore.bananbasozsalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130518961999-dipbnheqfqquor4u8g3i4re3iek712c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recore.bananbasozsalon",
+            "certificate_hash": "337e3a71deea9fbdd2ae81176cdc3c2525d8c54d"
+          }
+        },
+        {
+          "client_id": "130518961999-qths1553c9p0nvmj6u58hvjc39569j1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJAd5b8zYJbLJxnJ7BrlINOBt80bjhvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130518961999-qths1553c9p0nvmj6u58hvjc39569j1l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

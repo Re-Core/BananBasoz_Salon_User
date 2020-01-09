@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFEDE8</color>
+    <color name="colorPrimaryDark">#FEDCD0</color>
+    <color name="colorAccent">#FFF9F9</color>
+
+    <color name="blueLink">#6299D8</color>
+    <color name="pink">#FFEDE8</color>
+    <color name="textOnPink">#6A6361</color>
+
+    <color name="light_pink">#FFF9F9</color>
+    <color name="dark_brown">#442C2E</color>
+    <color name="bottomBarPink">#FEDCD0</color>
+
+    <color name="content_text_color">#999da4</color>
+
+    <color name="seperator_on_pink">#D9CFD0</color>
+
+</resources>
