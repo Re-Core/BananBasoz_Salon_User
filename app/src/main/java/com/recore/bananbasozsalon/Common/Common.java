@@ -18,10 +18,19 @@ public class Common {
     public static String UserInformation = "UserInformation";
     public static User currentUser;
 
+    public static String timeAndYearStampToString(long time) {
+        Calendar calendar = Calendar.getInstance(Locale.ENGLISH);
+        calendar.setTimeInMillis(time);
+        String date = DateFormat.format("yyyy-MM-dd \n hh:mm:ss a", calendar).toString();
+        return date;
+    }
+
     public static String timeStampToString(long time) {
         Calendar calendar = Calendar.getInstance(Locale.ENGLISH);
         calendar.setTimeInMillis(time);
         String date = DateFormat.format("yyyy-MM-dd \n hh:mm:ss a", calendar).toString();
         return date;
     }
+
+
 }
